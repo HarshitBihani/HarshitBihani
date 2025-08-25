@@ -1,4 +1,4 @@
-<img src="Github Readme Gif Profile.gif" alt="GitHub Banner" />
+<img src="Github Readme Gif Profile.gif"  alt="GitHub Banner" width="1300" height="300"/>
 <h1 align="center">Hi 👋, I'm Harshit Bihani</h1>
 <h3 align="center">Aspiring Data Scientist & Software Developer from India</h3>
 
