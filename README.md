@@ -1,4 +1,4 @@
-
+<img src="github-banner.gif" alt="GitHub Banner" />
 <h1 align="center">Hi 👋, I'm Harshit Bihani</h1>
 <h3 align="center">Aspiring Data Scientist & Software Developer from India</h3>
 
